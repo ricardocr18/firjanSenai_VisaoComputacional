@@ -1,4 +1,4 @@
-# Desafio 01 SA — Detecção e Classificação de Objetos com OpenCV
+# Desafio 01 - SA — Detecção e Classificação de Objetos com OpenCV e Redes Neurais Convolucionais
 
 ---
 

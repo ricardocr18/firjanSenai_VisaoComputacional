@@ -1,5 +1,4 @@
-# Projeto de IA — Reconhecimento Facial para Controle de Acesso
-
+# Prática 01: Estruturação do Projeto de IA — Reconhecimento Facial para Controle de Acesso
 ---
 
 ## Contextualização

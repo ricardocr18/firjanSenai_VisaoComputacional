@@ -1,4 +1,4 @@
-# Prática 01 — Introdução à Visão Computacional com Python e OpenCV
+# Prática 01: Pré-processamento de imagens com Python e OpenCV
 
 ## Estrutura do Projeto
 
@@ -60,6 +60,8 @@ A imagem utilizada (`imagem/componente.jpg`) é uma simulação de uma placa de 
 - **Capacitores/pontos de teste** — círculos dourados com símbolo "+"
 
 > **Dimensões:** 640 × 480 pixels | **Canais:** 3 (RGB) | **Tipo:** uint8 (0–255)
+
+<img width="600" alt="Componentes para Reconhecimento" src="imagem/componente.png" />
 
 ---
 
