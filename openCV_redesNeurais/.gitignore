@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Poetry
+poetry.lock
+
+# Resultados gerados (opcional — remova esta linha se quiser versionar as imagens)
+#pratica01_OpenCV/resultados/
+
+# Imagens de entrada (não versionar arquivos binários grandes)
+pratica01_OpenCV/imagem/
+
+# VS Code
+.vscode/
+
+# Pasta zGeral
+zGeral/
+*zGeral/
