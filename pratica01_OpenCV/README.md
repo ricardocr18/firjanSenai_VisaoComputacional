@@ -78,6 +78,8 @@ O script gera automaticamente a figura `resultados/resultado_processamento.png` 
 
 > O OTSU calculou limiar = **58**, bem abaixo do fixo (127), pois o histograma é dominado por pixels escuros do fundo da PCB. Isso evidencia a vantagem do método adaptativo para imagens com iluminação não uniforme.
 
+<img width="600" alt="Componentes de Saída" src="resultados/resultado_processamento.png" />
+
 ---
 
 
