@@ -9,10 +9,10 @@ __pycache__/
 poetry.lock
 
 # Resultados gerados (opcional — remova esta linha se quiser versionar as imagens)
-pratica01_pythonOpenCV/resultados/
+pratica01_OpenCV/resultados/
 
 # Imagens de entrada (não versionar arquivos binários grandes)
-pratica01_pythonOpenCV/imagem/
+pratica01_OpenCV/imagem/
 
 # VS Code
 .vscode/

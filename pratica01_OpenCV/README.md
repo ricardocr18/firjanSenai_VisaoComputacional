@@ -3,7 +3,7 @@
 ## Estrutura do Projeto
 
 ```
-pratica01_pythonOpenCV/
+pratica01_OpenCV/
 │
 ├── pyproject.toml          # Configuração do projeto e dependências (Poetry)
 ├── poetry.lock             # Lock file gerado pelo Poetry
