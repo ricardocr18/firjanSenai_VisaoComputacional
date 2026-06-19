@@ -81,5 +81,5 @@ O script gera automaticamente a figura `resultados/resultado_processamento.png` 
 
 ## 📥 Acesso (Download Facilitado)
 
-1. 🚀 **Visualização Rápida:** [Abrir no Editor Web](https://github.dev/ricardocr18/firjanSenai_VisaoComputacional/tree/main/pratica01_pythonOpenCV) (ou pressione `.` no teclado).
-2. 📦 **Download Direto (.zip):** [Clique aqui para baixar apenas esta pasta](https://download-directory.github.io/?url=https://github.com/ricardocr18/firjanSenai_VisaoComputacional/tree/main/pratica01_pythonOpenCV).
+1. 🚀 **Visualização Rápida:** [Abrir no Editor Web](https://github.dev/ricardocr18/firjanSenai_VisaoComputacional/tree/main/pratica01_OpenCV) (ou pressione `.` no teclado).
+2. 📦 **Download Direto (.zip):** [Clique aqui para baixar apenas esta pasta](https://download-directory.github.io/?url=https://github.com/ricardocr18/firjanSenai_VisaoComputacional/tree/main/pratica01_OpenCV).
