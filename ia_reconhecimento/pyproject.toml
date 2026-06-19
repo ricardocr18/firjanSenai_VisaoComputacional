@@ -1,0 +1,23 @@
+[project]
+name = "pratica01-reconhecimentofacial"
+version = "0.1.0"
+description = "Projeto de IA — Reconhecimento Facial para Controle de Acesso"
+authors = [
+    {name = "Ricardo C. Ribeiro"}
+]
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = [
+    "deepface>=0.0.93",
+    "opencv-python>=4.10.0",
+    "numpy>=1.26.0",
+    "matplotlib>=3.9.0",
+    "tf-keras>=2.19.0",
+]
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
