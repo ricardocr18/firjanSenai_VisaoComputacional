@@ -1,6 +1,6 @@
 # 🤖 Visão Computacional — FirjanSenai AI Industrial
 
-Repositório das práticas desenvolvidas no curso de **Visão Computacional com Python** da FIRJAN SENAI.
+Repositório destinado as práticas desenvolvidas no curso de **Visão Computacional com Python da FIRJAN SENAI** https://www.firjan.com.br/senai/. Onde o curso iniciou em março/26 e finalizou em junho/26 focado em **Inteligencia Artificial** com disciplinas de Ciência de Dados e Machine Learning aplicada ao ambiente industrial.
 
 ---
 
