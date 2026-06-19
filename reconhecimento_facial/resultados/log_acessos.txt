@@ -1,0 +1,28 @@
+
+============================================================
+Sessão: 19/06/2026 17:32:17
+============================================================
+[AUTORIZADO] Teste AUTORIZADO (mesma pessoa)
+  Similaridade : 79.0%
+  Distância    : 0.2100
+  Referência   : bush_ref_01.jpg
+
+[NEGADO] Teste NEGADO (pessoa diferente)
+  Similaridade : 18.0%
+  Distância    : 0.8200
+  Referência   : bush_ref_01.jpg
+
+
+============================================================
+Sessão: 19/06/2026 17:35:42
+============================================================
+[AUTORIZADO] Teste AUTORIZADO (mesma pessoa)
+  Similaridade : 99.4%
+  Distância    : 0.0065
+  Referência   : funcionario_01_ref_a.jpg
+
+[NEGADO] Teste NEGADO (pessoa diferente)
+  Similaridade : 88.2%
+  Distância    : 0.1176
+  Referência   : funcionario_01_ref_b.jpg
+
