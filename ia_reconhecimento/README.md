@@ -161,6 +161,7 @@ reais de pessoas, conforme orientação ética do enunciado.
 
 ---
 
-## Repositório
+## 📥 Acesso (Download Facilitado)
 
-[github.com/ricardocr18/firjanSenai_VisaoComputacional](https://github.com/ricardocr18/firjanSenai_VisaoComputacional)
+1. 🚀 **Visualização Rápida:** [Abrir no Editor Web](https://github.dev/ricardocr18/firjanSenai_VisaoComputacional/tree/main/ia_reconhecimento) (ou pressione `.` no teclado).
+2. 📦 **Download Direto (.zip):** [Clique aqui para baixar apenas esta pasta](https://download-directory.github.io/?url=https://github.com/ricardocr18/firjanSenai_VisaoComputacional/tree/main/ia_reconhecimento).

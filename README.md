@@ -8,8 +8,9 @@ Repositório das práticas desenvolvidas no curso de **Visão Computacional com 
 
 | Pasta | Descrição | Status | Atalho |
 |---|---|---|---|
-| [pratica01_OpenCV](./pratica01_OpenCV) | Pré-processamento de imagens com Python e OpenCV | ✅ Concluído | [Ver Conteúdo](./pratica01_OpenCV) |
-| [pratica01_ReconhecimentoFacial](./pratica01_ReconhecimentoFacial) | Estruturação do Projeto de IA — Reconhecimento Facial para Controle de Acesso | 🚧 Em Construção | [Ver Conteúdo](./pratica01_ReconhecimentoFacial) |
+| [pratica01_OpenCV](./pratica01_OpenCV) | Prática 01: Pré-processamento de imagens com Python e OpenCV | ✅ Concluído | [Ver Conteúdo](./pratica01_OpenCV) |
+| [ia_reconhecimento](./ia_reconhecimento) | Prática 01: Estruturação do Projeto de IA — Reconhecimento Facial para Controle de Acesso | ✅ Concluído | [Ver Conteúdo](./ia_reconhecimento) |
+| [reconhecimento_facial](./ia_reconhecimento) | Desafio 01 - Reconhecimento Facial para Controle de Acesso | 🚧 Em Construção | [Ver Conteúdo](./reconhecimento_facial) |
 
 ---
 
