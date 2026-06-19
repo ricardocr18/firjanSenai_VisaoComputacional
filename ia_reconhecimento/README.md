@@ -144,6 +144,8 @@ A visualização gerada pelo script utiliza **dados simulados numericamente** pa
 ilustrar o conceito de embeddings faciais e distâncias cosseno, sem usar imagens
 reais de pessoas, conforme orientação ética do enunciado.
 
+<img width="600" alt="Pipeline de Reconhecimento Facial" src="resultados/pipeline_reconhecimento_facial.png" />
+
 ---
 
 ## Ética e Privacidade
