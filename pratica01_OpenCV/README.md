@@ -61,7 +61,7 @@ A imagem utilizada (`imagem/componente.jpg`) é uma simulação de uma placa de 
 
 > **Dimensões:** 640 × 480 pixels | **Canais:** 3 (RGB) | **Tipo:** uint8 (0–255)
 
-<img width="600" alt="Componentes para Reconhecimento" src="imagem/componente.png" />
+<img width="600" alt="Componentes para Reconhecimento" src="imagem/componente.jpg" />
 
 ---
 
